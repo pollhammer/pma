@@ -1,6 +1,7 @@
 <div align="center">
   
-# Pollhammer Mail Archiv <br>
+# PMA
+Pollhammer Mail Archiv <br>
 </div>
 <p align="center">
 </p>
