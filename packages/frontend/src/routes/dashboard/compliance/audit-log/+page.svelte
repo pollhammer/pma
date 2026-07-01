@@ -93,7 +93,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.audit_log.title')} - OpenArchiver</title>
+	<title>{$t('app.audit_log.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 <div class="mb-4 flex items-center justify-between">
