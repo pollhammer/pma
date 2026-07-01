@@ -15,7 +15,7 @@
 			{/if}
 			<p class="text-balance text-center text-xs font-medium leading-loose">
 				© {new Date().getFullYear()}
-				<a href="https://archiv.pollhammer.org/" target="_blank">Manuel Pollhammer</a>. {$t(
+				<a href="https://archive.pollhammer.org/" target="_blank">Manuel Pollhammer</a>. {$t(
 					'app.components.footer.all_rights_reserved'
 				)}
 			</p>
