@@ -78,7 +78,7 @@
 </script>
 
 <svelte:head>
-	<title>{email?.subject} | {$t('app.archive.title')} - OpenArchiver</title>
+	<title>{email?.subject} | {$t('app.archive.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 {#if email}
