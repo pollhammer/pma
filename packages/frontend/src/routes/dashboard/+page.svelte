@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.dashboard_page.title')} - Pollhammer Mail Archiv</title>
+	<title>{$t('app.dashboard_page.title')} - Pollhammer Mail Archive</title>
 	<meta name="description" content={$t('app.dashboard_page.meta_description')} />
 </svelte:head>
 
