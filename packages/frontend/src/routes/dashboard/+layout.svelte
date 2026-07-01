@@ -78,7 +78,7 @@
     <div class="container mx-auto flex h-16 flex-row items-center justify-between">
         <a href="/dashboard/archived-emails" class="flex flex-row items-center gap-2 font-bold">
             <img src="/logos/logo-sq.svg" alt="OpenArchiver Logo" class="h-8 w-8" />
-            <span class="hidden sm:inline-block">Pollhammer Mail Archiv</span>
+            <span class="hidden sm:inline-block">Pollhammer Mail Archive</span>
         </a>
 
         <!-- Desktop Navigation -->
