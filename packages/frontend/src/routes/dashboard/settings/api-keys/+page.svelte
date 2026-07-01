@@ -103,7 +103,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.api_keys_page.title')} - Open Archiver</title>
+	<title>{$t('app.api_keys_page.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 <div class="">
