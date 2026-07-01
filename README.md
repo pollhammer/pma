@@ -1,16 +1,16 @@
 <div align="center">
   
 # PMA
-Pollhammer Mail Archiv <br>
+Pollhammer Mail Archive <br>
 </div>
 <p align="center">
 </p>
 
 <br>
 
-## 🛠 Personal Fork & Private Mail Archive
+## 🛠 Personal Fork & Private Mail Archivee
 
-> This is a personal fork of [Open Archiver](https://github.com/LogicLabs-OU/OpenArchiver), created for learning, experimentation, and hobby projects. It is also used as my private email archiving solution for my personal domain **"pollhammer.org"**. The focus is on exploring new ideas, testing custom features, and adapting the platform to my individual needs.
+> This is a personal fork of [Open Archiveer](https://github.com/LogicLabs-OU/OpenArchiveer), created for learning, experimentation, and hobby projects. It is also used as my private email Archiveing solution for my personal domain **"pollhammer.org"**. The focus is on exploring new ideas, testing custom features, and adapting the platform to my individual needs.
 
 ---
 
@@ -30,8 +30,8 @@ Pollhammer Mail Archiv <br>
 Clone this fork directly to your server:
 
 ```bash
-git clone https://github.com/pollhammer/Pollhammer-Mail-Archiv.git
-cd Pollhammer-Mail-Archiv
+git clone https://github.com/pollhammer/Pollhammer-Mail-Archive.git
+cd Pollhammer-Mail-Archive
 ```
 ---
 ### 2. Prepare Data Directory
@@ -39,8 +39,8 @@ cd Pollhammer-Mail-Archiv
 Create a local directory for persistent data storage to avoid permission issues:
 
 ```bash
-sudo mkdir -p /var/data/pollhammer-mail-archiv
-sudo chown -R $(id -u):$(id -g) /var/data/pollhammer-mail-archiv
+sudo mkdir -p /var/data/pollhammer-mail-Archive
+sudo chown -R $(id -u):$(id -g) /var/data/pollhammer-mail-Archive
 ```
 ---
 ### 3. Configuration (.env)
@@ -61,7 +61,7 @@ You must change the following values for security reasons:
 ---
 ### 4. Launch the Containers
 
-Start the archiving system using Docker Compose:
+Start the Archiveing system using Docker Compose:
 ```bash
 docker compose up -d
 ```
@@ -82,7 +82,7 @@ Follow the setup wizard to:
 
 - Create your admin account
 - Configure your first mail source
-- Verify indexing and archive synchronization
+- Verify indexing and Archivee synchronization
 ---
 ## Updating
 
@@ -96,12 +96,12 @@ docker compose up -d
 ## Screenshots
 
 **Login Page:**
-![Login Page](https://github.com/pollhammer/Pollhammer-Mail-Archiv/blob/main/screenshots/Login.png)
+![Login Page](https://github.com/pollhammer/Pollhammer-Mail-Archive/blob/main/screenshots/Login.png)
 
 **Simple User Interface:**<br>
 - A streamlined view for searching, viewing, and saving emails, without unnecessary complexity. ❗CUSTOM❗
-![Simple UI](https://github.com/pollhammer/Pollhammer-Mail-Archiv/blob/main/screenshots/simple%20default%20UI.png)
+![Simple UI](https://github.com/pollhammer/Pollhammer-Mail-Archive/blob/main/screenshots/simple%20default%20UI.png)
 
 **Default User Role Generator:**<br>
 - Generate standard roles using the mailbox ID and the user's email address. ❗NEW❗
-![Role Generator](https://github.com/pollhammer/Pollhammer-Mail-Archiv/blob/main/screenshots/default%20user%20role%20generator.png)
+![Role Generator](https://github.com/pollhammer/Pollhammer-Mail-Archive/blob/main/screenshots/default%20user%20role%20generator.png)
