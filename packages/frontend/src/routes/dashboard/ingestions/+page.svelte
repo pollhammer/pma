@@ -255,7 +255,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.ingestions.title')} - Pollhammer Mail Archiv</title>
+	<title>{$t('app.ingestions.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 <div class="">
