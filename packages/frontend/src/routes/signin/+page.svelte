@@ -51,8 +51,8 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.auth.login')} - Pollhammer Mail Archiv</title>
-	<meta name="description" content="Login to your Pollhammer Mail Archiv account." />
+	<title>{$t('app.auth.login')} - Pollhammer Mail Archive</title>
+	<meta name="description" content="Login to your Pollhammer Mail Archive account." />
 </svelte:head>
 
 <div
@@ -60,12 +60,12 @@
 >
 	<div>
 		<a
-			href="https://archiv.pollhammer.org"
+			href="https://archive.pollhammer.org"
 			target="_blank"
 			class="flex flex-row items-center gap-2 font-bold"
 		>
 			<img src="/logos/logo-sq.svg" alt="OpenArchiver Logo" class="h-16 w-16" />
-			<span class="text-2xl">Pollhammer Mail Archiv</span>
+			<span class="text-2xl">Pollhammer Mail Archive</span>
 		</a>
 	</div>
 	<Card.Root class="w-full max-w-md">
