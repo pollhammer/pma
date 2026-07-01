@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.jobs.title')} - Open Archiver</title>
+	<title>{$t('app.jobs.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 <div class="space-y-4">
