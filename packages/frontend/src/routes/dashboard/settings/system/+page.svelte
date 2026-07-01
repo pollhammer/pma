@@ -55,7 +55,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.system_settings.title')} -  Pollhammer Mail Archive</title>
+	<title>{$t('app.system_settings.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 <div class="space-y-6">
