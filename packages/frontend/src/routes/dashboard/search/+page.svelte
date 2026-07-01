@@ -127,7 +127,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.search.title')} | Pollhammer Mail Archiv</title>
+	<title>{$t('app.search.title')} | Pollhammer Mail Archive</title>
 	<meta name="description" content={$t('app.search.description')} />
 </svelte:head>
 
