@@ -109,7 +109,7 @@
 </script>
 
 <svelte:head>
-	<title>{$t('app.roles.title')} -  Pollhammer Mail Archive</title>
+	<title>{$t('app.roles.title')} - Pollhammer Mail Archive</title>
 </svelte:head>
 
 <div class="">
