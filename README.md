@@ -96,12 +96,12 @@ docker compose up -d
 ## Screenshots
 
 **Login Page:**
-![Login Page](https://github.com/pollhammer/Pollhammer-Mail-Archive/blob/main/screenshots/Login.png)
+![Login Page](/screenshots/Login.png)
 
 **Simple User Interface:**<br>
 - A streamlined view for searching, viewing, and saving emails, without unnecessary complexity. ❗CUSTOM❗
-![Simple UI](https://github.com/pollhammer/Pollhammer-Mail-Archive/blob/main/screenshots/simple%20default%20UI.png)
+![Simple UI](/screenshots/simple%20default%20UI.png)
 
 **Default User Role Generator:**<br>
 - Generate standard roles using the mailbox ID and the user's email address. ❗NEW❗
-![Role Generator](https://github.com/pollhammer/Pollhammer-Mail-Archive/blob/main/screenshots/default%20user%20role%20generator.png)
+![Role Generator](/screenshots/default%20user%20role%20generator.png)
