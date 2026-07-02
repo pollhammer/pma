@@ -30,8 +30,8 @@ Pollhammer Mail Archive <br>
 Clone this fork directly to your server:
 
 ```bash
-git clone https://github.com/pollhammer/Pollhammer-Mail-Archive.git
-cd Pollhammer-Mail-Archive
+git clone https://github.com/pollhammer/pma.git
+cd pma
 ```
 ---
 ### 2. Prepare Data Directory
@@ -39,8 +39,8 @@ cd Pollhammer-Mail-Archive
 Create a local directory for persistent data storage to avoid permission issues:
 
 ```bash
-sudo mkdir -p /var/data/pollhammer-mail-Archive
-sudo chown -R $(id -u):$(id -g) /var/data/pollhammer-mail-Archive
+sudo mkdir -p /var/data/pma
+sudo chown -R $(id -u):$(id -g) /var/data/pma
 ```
 ---
 ### 3. Configuration (.env)
